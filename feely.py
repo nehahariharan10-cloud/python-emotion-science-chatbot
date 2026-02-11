@@ -41,8 +41,8 @@ while True:
     
     if userResponse == "bye":
         break
-    
-    response_to_list = userResponse.split()
+        
+    response_to_list = userResponse.lower().split()
     print("")
     
     if findFeeling(response_to_list) == "happy":
@@ -64,4 +64,5 @@ print("Goodbye!")
 print("")
 print("( •_•)")
 print("<)   )╯")
+
 print(" |   |")
