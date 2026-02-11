@@ -53,7 +53,6 @@ How are you feeling today?   anxious
 
 ## Future Improvements
 
-- Add case-insensitive matching
 - Support multiple emotions in one response
 - Build a GUI or web interface
 - Store conversation history
